@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mandi7469/Social-Network-API.git"
+    "url": "git+https://github.com/breannacamacho/Social-NetworkAPI.git"
   },
-  "author": "Amanda Changa",
+  "author": "Breanna Camacho",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mandi7469/Social-Network-API/issues"
+    "url": "https://github.com/breannacamacho/Social-NetworkAPI/issues"
   },
-  "homepage": "https://github.com/mandi7469/Social-Network-API#readme",
+  "homepage": "https://github.com/breannacamacho/Social-NetworkAPI#readme",
   "dependencies": {
     "express": "^4.19.2",
     "mongoose": "^8.5.3",
