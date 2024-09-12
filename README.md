@@ -50,7 +50,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Questions
 
-[Link to GitHub Profile](https://github.com/breannacmacho)
+[Link to GitHub Profile](https://github.com/breannacamacho)
 
 If you have additional questions please email me at breannacamacho1@gmail.com
 
