@@ -29,7 +29,7 @@ Built an API for a web application where social network users can share their th
 
 ## Badges
 
-[![Static Badge](https://img.shields.io/badge/GitHub-mandi7469-darkgreen)](https://github.com/mandi7469) [![Static Badge](https://img.shields.io/badge/Express.js-4.19.2-blue%20)](https://www.npmjs.com/package/express) [![Static Badge](https://img.shields.io/badge/Mongoose-8.5.3-red)](https://www.npmjs.com/package/mongoose) [![Static Badge](https://img.shields.io/badge/Nodemon-3.1.4-green)](https://www.npmjs.com/package/nodemon)
+[![Static Badge](https://img.shields.io/badge/GitHub-mandi7469-darkgreen)](https://github.com/breannacamacho) [![Static Badge](https://img.shields.io/badge/Express.js-4.19.2-blue%20)](https://www.npmjs.com/package/express) [![Static Badge](https://img.shields.io/badge/Mongoose-8.5.3-red)](https://www.npmjs.com/package/mongoose) [![Static Badge](https://img.shields.io/badge/Nodemon-3.1.4-green)](https://www.npmjs.com/package/nodemon)
 
 ## Contributions 
 
